@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+Tech Stack for Projects
+Python Postgres MySQL Power Bi Microsoft Excel Microsoft PowerPoint Visual Studio Code R Pandas Visual Studio Code Plotly
 
 
