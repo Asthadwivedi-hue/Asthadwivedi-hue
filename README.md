@@ -3,7 +3,7 @@
 -🌱 I’m currently learning python libraries.
 - 💬 Ask me about sql and power bi...
 - -👯 I’m looking to collaborate on some owesome projects.
-- 📫 How to reach me: asthadwivedi83608@gmail.com..
+- 📫 How to reach me: astha1234890@gmail.com..
 
 
 
